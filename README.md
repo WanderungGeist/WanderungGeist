@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WanderungGeist
 - 👀 I’m interested in a career in Web Development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything relevant.
-- 📫 Reach me at BJHqi81@gmail.com
+- 📫 Reach me at bjhQi81@gmail.com
 
 <!---
 WanderungGeist/WanderungGeist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
